@@ -16,6 +16,6 @@ Please feel free to make a comment/ suggestion, so that I can present something 
 ![Screen Shot 2021-07-01 at 12 37 28 AM (2)](https://user-images.githubusercontent.com/30817557/124228844-9f3c3b00-dac1-11eb-9b4a-669b6cc08d35.png)
 
 
-GitHub Repo: 
+GitHub Repo: https://github.com/chenkrkic/weather-dashboard.git
 
 Webpage: 
